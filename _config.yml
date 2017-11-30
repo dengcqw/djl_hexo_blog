@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Another tech Blog
 subtitle:
 description:
-author: John Doe
+author: Deng jinlong
 language:
 timezone:
 
@@ -22,6 +22,8 @@ source_dir: source
 public_dir: public
 tag_dir: tags
 archive_dir: archives
+archive: 
+    title: 
 category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
@@ -72,7 +74,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Anisina
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
